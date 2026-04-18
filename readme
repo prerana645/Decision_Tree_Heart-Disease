@@ -17,6 +17,11 @@ link - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 - Analyzed feature importance
 - Performed cross-validation
 
+# Results
+- Decision Tree Accuracy: 0.7804878048780488 %
+- Random Forest Accuracy: 0.9853658536585366 %
+- Cross-validation Accuracy: [1.  1.   1.   1. 0.98536585]%
+
 # Key Learnings
 - Decision trees can overfit easily
 - Random forest improves performance using ensemble learning
