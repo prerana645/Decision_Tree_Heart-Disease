@@ -1,0 +1,29 @@
+# Decision Trees & Random Forests
+
+# Objective
+Learn tree-based models for classification.
+
+# Dataset
+Heart Disease Dataset
+link - https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+# Steps Performed
+- Data loading and preprocessing
+- Trained Decision Tree Classifier
+- Visualized Decision Tree
+- Controlled overfitting using max_depth
+- Trained Random Forest model
+- Compared accuracy
+- Analyzed feature importance
+- Performed cross-validation
+
+# Key Learnings
+- Decision trees can overfit easily
+- Random forest improves performance using ensemble learning
+- Feature importance helps interpret models
+
+# Tools Used
+- Python
+- Scikit-learn
+- Matplotlib
+- Seaborn
